@@ -1,0 +1,10 @@
+.back-to-swiping {
+    padding: 1rem;
+    border-radius: 2rem;
+    width: auto;
+    border: 2px solid #620475;
+}
+
+.back-to-swiping .material-icons {
+    font-size: 4rem;
+}
